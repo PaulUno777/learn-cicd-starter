@@ -1,4 +1,4 @@
-![alt text goes here](https://github.com/PaulUno777/learn-cicd-starter/blob/addtests/.github/workflows/ci.yml)
+![Tests](https://github.com/PaulUno777/learn-cicd-starter/blob/addtests/.github/workflows/ci.yml)
 
 # learn-cicd-starter (Notely)
 
